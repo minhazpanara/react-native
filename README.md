@@ -1,4 +1,4 @@
-# react-native
+# react-native-custom-switch
 
 CustomSwitch with labels
 
@@ -17,8 +17,11 @@ CustomSwitch with labels
   enableSlide= // scroll enable
   toggleState= // toggle state on/off
   
+#Off
+![react-native-custom-switch-on tag](https://github.com/minhazpanara/react-native/blob/master/offState.png)
 
-
+#On
+![react-native-custom-switch-off tag](https://github.com/minhazpanara/react-native/blob/master/onState.png)
 
 # Call-back
 _onToggleEvent(state, text){
