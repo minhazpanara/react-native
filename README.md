@@ -3,7 +3,7 @@
 CustomSwitch with labels
 
 # Usage
-<CustomSwitch
+  <CustomSwitch
   style= //your style
   switchWidth= //mendatory
   switchHeight= //mendatory
@@ -15,8 +15,7 @@ CustomSwitch with labels
   rightText=  'lbs'
   onToggle = //your toggle function to get call back
   enableSlide= // scroll enable
-  toggleState= // toggle state on/off
-  >
+  toggleState= // toggle state on/off>
   </CustomSwitch>
 
 
